@@ -10,6 +10,6 @@ You are visiting Minor Stokes' Github Pages.
 
 [50 Wholesome Cat Photos That Will Warm Your Heart](https://www.awesomeinventions.com/wholesome-cat-photos/)
 
-### Stuff
+## Stuff
 
 [Terrible Phone Number UI Hackathon - My Entry](https://mmstokes.github.io/terrible_phone_UI_hackathon/)
